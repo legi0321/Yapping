@@ -1,2 +1,0 @@
-COOKIE=
-X-CSRF-TOKEN=
